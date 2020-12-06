@@ -17,7 +17,7 @@ layout: default
 
 ### Why no-KYC?
 
-KYC or 'Know your customer' is a regulation that any businesses with a banking relationship has to abide by and Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
+KYC or 'Know your customer' is a regulation that any business with a banking relationship has to abide by; and Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
 
 95% of Bitcoin on-ramps today require KYC information. If you purchase through one of these regulated entities, you essentially tag your bitcoin addresses to your personal identity. This makes it much easier for chain surveillance firms, the companies they work with or worse, governments, to potentially... 
 
@@ -50,7 +50,7 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 #### More in-depth
 
 1.  Download [Bisq](https://bisq.network/downloads/) onto your computer, run it and wait for it to sync
-2.  Click on account and add the payment method you intend to use to purchase bitcoin with
+2.  Click on account and add the payment method you intend to use to purchase bitcoin
 3.  Go to 'Buy BTC' and search for sellers offering bitcoin in exchange for your chosen payment method
 4.  Click 'Take Offer'
 5.  Specify the amount you wish to buy (if the seller is offering a range) 
