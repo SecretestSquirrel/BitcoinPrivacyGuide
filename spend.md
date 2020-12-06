@@ -36,7 +36,7 @@ Stonewall builds your transaction in a unique way to increase the deniability of
 
 * Stonewall X2
 
-Stonewall X2 creates a mini coin join with another Samourai user. It mixes some of both Samourai users UTXOs when paying to any third party to create a high entropy transaction. You don't even need to be in the same room as your fellow Samourai user to create a Stonewall X2 as the wallets will communicate via encrypted Tor chat layer known as **Soroban** in automated fashion.
+Stonewall X2 creates a mini coin join with another Samourai user. It mixes some of both Samourai users UTXOs when paying to any third party to create a high entropy transaction. You don't even need to be in the same room as your fellow Samourai user to create a Stonewall X2 as the wallets will communicate via encrypted Tor chat layer known as **[Soroban](https://medium.com/samourai-wallet/wallet-update-0-99-96-introducing-soroban-adc9a36a7ddb)** in automated fashion.
 
 **Useful for** - Any type of spend
 
