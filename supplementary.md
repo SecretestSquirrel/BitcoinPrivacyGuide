@@ -49,6 +49,8 @@ E-mail services that use encryption to avoid spying.
 
 * [Tutanota](https://tutanota.com/)
 
+* [CTemplar](https://ctemplar.com/)
+
 
 ### Phones
 
@@ -72,6 +74,10 @@ Privacy focused forks of Android with google services removed.
 * [Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
 
 * [Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
+
+* [OpenKeyChain](https://www.openkeychain.org/) - Mobile app making PGP encryption very user friendly
+
+* [AndOTP](https://github.com/andOTP/andOTP) - Time-based One Time Password (*TOTP*) app for 2 Factor Authentication
 
 
   ***
