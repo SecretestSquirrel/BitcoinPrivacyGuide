@@ -29,7 +29,7 @@ From a privacy perspective, trusting someone else's node means that they can see
 * All of your balances
 * In some cases every address in your wallet (even the currently empty ones)
 
-In a perfect world everyone would have their own node setup before they even get any bitcoin. That way they never have to leak any transactional privacy by relying on other people's nodes to verify their transactions for them. The problem is, it takes seconds to download a phone wallet and receive bitcoin and it takes 3-5 days to set-up a node and download the blockchain so the natural progression works in the reverse.
+In a perfect world everyone would have their own node setup before they even get any bitcoin. That way they never have to leak any transactional privacy by relying on other people's nodes to verify their transactions for them. The problem is, it takes seconds to download a phone wallet and receive bitcoin and it takes 3-5 days to set-up a node and download the blockchain; so the natural progression works in the reverse.
 
 If, like most, you already have a wallet with bitcoin in that is backed by someone else's node, fear not. All you need to do is set up a new wallet (they're free remember) that is backed by your own node and send your funds across. For an extra level of security I would recommend [coinjoining](https://bitcoinprivacy.guide/separate.html) them before sending but this is not absolutely essential.
 
@@ -68,4 +68,4 @@ Running a node is a big step for many but is an absolute must for the ultimate t
   
   ***
   
-Now you have obtained, secured, segregated and labelled your bitcoin in a wallet backed by your own node, lets [separate it](https://bitcoinprivacy.guide/separate.html) from its past.
+Now that you have obtained, secured, segregated and labeled your bitcoin in a wallet backed by your own node, lets [separate it](https://bitcoinprivacy.guide/separate.html) from its past.
