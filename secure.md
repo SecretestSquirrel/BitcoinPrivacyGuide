@@ -27,13 +27,13 @@ There goes a saying in Bitcoin, "not your keys, not your coins." What this essen
 ### Android
 
 1.  Download [Samourai Wallet](https://samouraiwallet.com/download)
-2.  Select mainnet and enable tor
+2.  Select mainnet and enable Tor
 3.  Start new wallet
-4.  Create a passphrase (*it is crucial that you secure this. Without this and your recovery words you cannot access your bitcoin*)
+4.  Create a strong passphrase (*it is crucial that you secure this. Without this **and** your recovery words you cannot access your bitcoin*)
 5.  Set a pin code
-6.  Write down your recovery words (*it is crucial that you secure this backup. Without this and your passphrase you cannot access your bitcoin*)
+6.  Write down your recovery words (*it is crucial that you secure this backup. Without this **and** your passphrase you cannot access your bitcoin*)
 7.  Tap the blue + and then press receive
-8.  You will now see your first bitcoin address that you can receive to
+8.  You will now see your first bitcoin address to which you can receive funds
 
 
 ### iOS
@@ -58,7 +58,7 @@ There goes a saying in Bitcoin, "not your keys, not your coins." What this essen
 
 ### Backup 
 
-Your bitcoin backup is your bitcoin. Anyone with access to it has access to your bitcoin. 
+Your bitcoin backup **is** your bitcoin. Anyone with access to it has access to your bitcoin. 
 
 *  Samourai Wallet creates an encrypted backup of your wallet automatically on your phone
 
@@ -72,12 +72,12 @@ You should ensure that your chosen method of backup is resistant to...
   
 ### Trade-offs
 
-Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else and they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. If you feel confident in setting up your own node first then skip ahead to the [scrutinise](https://bitcoinprivacy.guide/scrutinise.html) section and then come back here to continue with the guide. 
+Unless your chosen wallet is backed by your own node, you are trusting someone else's. This means that your transactional data and wallet balances are being served by someone else and they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys; the natural learning progression doesn't work that way. If you feel confident in setting up your own node first then skip ahead to the [scrutinise](https://bitcoinprivacy.guide/scrutinise.html) section and then come back here to continue with the guide. 
 
-But if that sounds a bit too much for you right now don't panic, we will fix that later in the guide.
+But if that sounds a bit too much for you right now don't panic; we will fix that later in the guide.
 
-Holding your own keys is a big responsibility, there are no refunds in Bitcoin.
+Holding your own keys is a big responsibility, **there are no refunds in Bitcoin.**
   
   ***
   
-  Now you know how to obtain secure privately, let's [segregate it](https://bitcoinprivacy.guide/segregate.html).
+  Now that you know how to obtain and secure bitcoin privately, let's [segregate it](https://bitcoinprivacy.guide/segregate.html).
